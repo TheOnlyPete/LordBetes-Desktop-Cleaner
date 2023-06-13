@@ -1,0 +1,46 @@
+
+	[
+	  {
+      "Name": "Audio Files",
+	  "DefaultLocation":"\\Audio Files",
+	  "FileTypes":["wav", "mp3", "ogg", "asd", "3gp", "aac", "aiff", "flac", "m4a", "oga", "wma"],
+	  },
+
+	  {
+      "Name": "Images",
+      "DefaultLocation":"\\Pictures",
+	  "FileTypes":["png", "jpg", "gif", "psd", "jfif", "tif", "bmp", "img", "jpeg", "kra", "svg", "ai", "ico"]
+	  },
+	  
+	  {
+      "Name": "Fonts",
+      "DefaultLocation":"\\Fonts",
+      "FileTypes":["otf", "ttf", "eot", "woff", "fnt", "odttf", "etx"]
+	  },
+
+	  {
+      "Name": "Zipped",
+      "DefaultLocation":"\\Compressed Folders",
+      "FileTypes":["zip", "7zip", "zipx", "7z"]
+	  },
+
+	  {
+      "Name": "Executables",
+      "DefaultLocation":"\\Executables",
+      "FileTypes":["exe", "application"]
+	  },
+
+	  {
+      "Name": "Text Files",
+      "DefaultLocation":"\\Text Files",
+      "FileTypes":["bat", "txt", "pdf", "html"]
+	  },
+
+	  {
+      "Name": "Shortcuts",
+      "DefaultLocation":"\\Shortcuts",
+      "FileTypes":["lnk"]
+	  }
+	]
+
+
